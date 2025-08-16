@@ -1,0 +1,11 @@
+SKILLS
+
+Languages: Python, C, Java, SQL
+
+Frameworks and Libraries: Numpy, Pandas
+
+Developer Tools: VS Code, PyCharm
+
+Technical Skills: Database Design and Management, Programming
+
+Soft Skills: Team Collaboration, Logical Thinking, Problem Solving, Time Management
